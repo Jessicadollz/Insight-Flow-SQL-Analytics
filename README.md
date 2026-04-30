@@ -1,4 +1,4 @@
-# Insight Flow SQL Analytics
+# Insight Flow SQL Analytics   
 
 ## 📌 Problem Summary
 
@@ -92,5 +92,6 @@ Detailed explanation of methodology, analysis, and findings is available in `rep
 
 ## 👩‍💻 Author
 
-Jessica Dolly
-Full Stack Developer | Data Analytics Enthusiast
+- **B. Jessica Dolly** – SE25MAID011   
+- **Ch. Kavya** – SE25MAID001
+- **T. Chandana** – SE25MAID039 
